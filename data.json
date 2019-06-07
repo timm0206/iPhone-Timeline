@@ -1,0 +1,86 @@
+[
+  {
+    "name": "iPhone",
+    "date": "June 29",
+    "year": 2007,
+    "sold": "300.000",
+    "image": "iphone_2007.png"
+  },
+  {
+    "name": "iPhone 3G",
+    "date": "July 11",
+    "year": 2008,
+    "sold": "1.000.000",
+    "image": "iphone_2008.png"
+  },
+  {
+    "name": "iPhone 3GS",
+    "date": "June 19",
+    "year": 2009,
+    "sold": "1.000.000",
+    "image": "iphone_2009.png"
+  },
+  {
+    "name": "iPhone 4",
+    "date": "June 24",
+    "year": 2010,
+    "sold": "1.700.000",
+    "image": "iphone_2010.png"
+  },
+  {
+    "name": "iPhone 4S",
+    "date": "October 14",
+    "year": 2011,
+    "sold": "4.000.000",
+    "image": "iphone_2011.png"
+  },
+  {
+    "name": "iPhone 5",
+    "date": "September 21",
+    "year": 2012,
+    "sold": "5.000.000",
+    "image": "iphone_2012.png"
+  },
+  {
+    "name": "iPhone 5S",
+    "date": "September 20",
+    "year": 2013,
+    "sold": "9.000.000",
+    "image": "iphone_2013.png"
+  },
+  {
+    "name": "iPhone 6 / 6 Plus",
+    "date": "September 19",
+    "year": 2014,
+    "sold": "10.000.000",
+    "image": "iphone_2014.png"
+  },
+  {
+    "name": "iPhone 6S / 6S Plus",
+    "date": "September 19",
+    "year": 2015,
+    "sold": "13.000.000",
+    "image": "iphone_2015.png"
+  },
+  {
+    "name": "iPhone 7 / 7 Plus",
+    "date": "September 16",
+    "year": 2016,
+    "sold": "13.000.000",
+    "image": "iphone_2016.png"
+  },
+  {
+    "name": "iPhone X",
+    "date": "November 3",
+    "year": 2017,
+    "sold": "N/A",
+    "image": "iphone_2017.png"
+  },
+  {
+    "name": "iPhone XS / XS MAX",
+    "date": "September 21",
+    "year": 2018,
+    "sold": "N/A",
+    "image": "iphone_2018.png"
+  }
+]

@@ -1,0 +1,119 @@
+<svg id="timeline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5760 1080">
+  <defs>
+    <style>
+      .ctext {
+        font-size: 47px;
+        fill: #fff;
+        font-family: 'Lato', sans-serif;;
+      }
+
+      .ccircle, .cline {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 5px;
+      }
+
+      .cline {
+        stroke-linecap: round;
+      }
+
+      .click-box {
+        cursor: pointer;
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <title>timeline-2</title>
+  <rect class="click-box" id="click-left-2" x="1973" y="743" width="80" height="65"/>
+  <rect class="click-box" id="click-left-3" x="3892" y="743" width="80" height="65"/>
+  <rect class="click-box" id="click-right-1" x="1780" y="743" width="80" height="65"/>
+  <rect class="click-box" id="click-right-2" x="3703" y="743" width="80" height="65"/>
+  
+  <g id="year-2014" class="year-container">
+    <text id="text" class="ctext" transform="translate(3556.21 847.73)">2014</text>
+    <circle class="ccircle" cx="3605" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2013" class="year-container">
+    <text id="text-2" data-name="text" class="ctext" transform="translate(3195.21 847.73)">2013</text>
+    <circle class="ccircle" cx="3244" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2012" class="year-container">
+    <text id="text-3" data-name="text" class="ctext" transform="translate(2833.21 847.73)">2012</text>
+    <circle class="ccircle" cx="2882" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2011" class="year-container">
+    <text id="text-4" data-name="text" class="ctext" transform="translate(2472.21 847.73)">2011</text>
+    <circle class="ccircle" cx="2521" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2010" class="year-container">
+    <circle class="ccircle" cx="2160" cy="784" r="12.5"/>
+    <text id="text-5" data-name="text" class="ctext" transform="translate(2111.21 847.73)">2010</text>
+  </g>
+  <g id="line">
+    <line class="cline" x1="4431.52" y1="783.5" x2="4095.48" y2="783.5"/>
+    <line class="cline" x1="5154.52" y1="783.5" x2="4817.48" y2="783.5"/>
+    <line class="cline" x1="5591.5" y1="783.5" x2="5540.48" y2="783.5"/>
+    <line class="cline" x1="5515.52" y1="783.5" x2="5179.48" y2="783.5"/>
+    <line class="cline" x1="4792.52" y1="783.5" x2="4456.48" y2="783.5"/>
+    <line class="cline" x1="4070.52" y1="783.5" x2="4016.5" y2="783.5"/>
+  </g>
+  <g id="year-2019" class="year-container">
+    <text id="text-6" data-name="text" class="ctext" transform="translate(5480.21 847.73)">2019</text>
+    <circle class="ccircle" cx="5529" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2018" class="year-container">
+    <text id="text-7" data-name="text" class="ctext" transform="translate(5119.21 847.73)">2018</text>
+    <circle class="ccircle" cx="5168" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2017" class="year-container">
+    <text id="text-8" data-name="text" class="ctext" transform="translate(4757.21 847.73)">2017</text>
+    <circle class="ccircle" cx="4806" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2016" class="year-container">
+    <text id="text-9" data-name="text" class="ctext" transform="translate(4396.21 847.73)">2016</text>
+    <circle class="ccircle" cx="4445" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2015" class="year-container">
+    <circle class="ccircle" cx="4084" cy="784" r="12.5"/>
+    <text id="text-10" data-name="text" class="ctext" transform="translate(4035.21 847.73)">2015</text>
+  </g>
+  <g id="line-2" data-name="line">
+    <line class="cline" x1="2507.52" y1="783.5" x2="2171.48" y2="783.5"/>
+    <line class="cline" x1="3230.52" y1="783.5" x2="2893.48" y2="783.5"/>
+    <line class="cline" x1="3667.5" y1="783.5" x2="3616.48" y2="783.5"/>
+    <line class="cline" x1="3591.52" y1="783.5" x2="3255.48" y2="783.5"/>
+    <line class="cline" x1="2868.52" y1="783.5" x2="2532.48" y2="783.5"/>
+    <line class="cline" x1="2146.52" y1="783.5" x2="2092.5" y2="783.5"/>
+  </g>
+  <g id="year-2009" class="year-container">
+    <text id="text-11" data-name="text" class="ctext" transform="translate(1633.21 847.73)">2009</text>
+    <circle class="ccircle" cx="1682" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2008" class="year-container">
+    <text id="text-12" data-name="text" class="ctext" transform="translate(1272.21 847.73)">2008</text>
+    <circle class="ccircle" cx="1321" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2007" class="year-container">
+    <text id="text-13" data-name="text" class="ctext" transform="translate(910.21 847.73)">2007</text>
+    <circle class="ccircle" cx="959" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2006" class="year-container">
+    <text id="text-14" data-name="text" class="ctext" transform="translate(549.21 847.73)">2006</text>
+    <circle class="ccircle" cx="598" cy="784" r="12.5"/>
+  </g>
+  <g id="year-2005" class="year-container">
+    <circle class="ccircle" cx="237" cy="784" r="12.5"/>
+    <text id="text-15" data-name="text" class="ctext" transform="translate(188.21 847.73)">2005</text>
+  </g>
+  
+  <g id="line-3" data-name="line">
+    <line class="cline" x1="585.52" y1="783.5" x2="249.48" y2="783.5"/>
+    <line class="cline" x1="1308.52" y1="783.5" x2="971.48" y2="783.5"/>
+    <line class="cline" x1="1745.5" y1="783.5" x2="1694.48" y2="783.5"/>
+    <line class="cline" x1="1669.52" y1="783.5" x2="1333.48" y2="783.5"/>
+    <line class="cline" x1="946.52" y1="783.5" x2="610.48" y2="783.5"/>
+    <line class="cline" x1="224.52" y1="783.5" x2="170.5" y2="783.5"/>
+  </g>
+  
+  
+</svg>
